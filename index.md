@@ -10,4 +10,4 @@ information about how to use the site
 
 refer to the sidebar for navigation
 
-![2022 Graduate Student Committee](/gsup-kb-draft/doc/assets/IMG_4358.jpg)
+![2022 Graduate Student Committee](/gsup-kb-draft/doc/assets/img/IMG_4358.jpg)
