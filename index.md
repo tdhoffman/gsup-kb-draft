@@ -2,8 +2,10 @@
 
 We have information about all kinds of things
 
-Introductory text goes here
+Introductory text goes here, maybe a nice picture
+
+Info about GSC and GSC pics could go here
 
 information about how to use the site
 
-list of links that mirrors the sidebar
+refer to the sidebar for navigation
