@@ -21,14 +21,14 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <!--<p>&#183; {{ site.description | default: site.github.project_tagline }}</p>-->
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-      </header>
-      
-      <section>
         <p class="view"><a href="https://www.tdhoffman.com/research">Research</a></p>
         
         <p class="view"><a href="https://www.tdhoffman.com/gsoc2022">GSoC 2022 Progress Journal</a></p>
+      </header>
+      
+      <section>
         
         {{ content }}
 
